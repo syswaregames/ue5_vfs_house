@@ -1,4 +1,7 @@
 # ue5_vfs_house
+
+<img width="1321" alt="Screenshot 2023-05-17 at 12 50 52 PM" src="https://github.com/syswaregames/ue5_vfs_house/assets/35966031/407cff88-8f47-43bf-9aba-2740b31bf870">
+
 This course provides a comprehensive introduction to Unreal Engine 5, focusing on scene interaction and item manipulation. Students will learn essential skills and techniques to create immersive and interactive experiences using Unreal Engine 5's powerful features. Through a series of hands-on exercises and projects, participants will gain a solid understanding of how to interact with complex scenes, drag and drop items, inspect items, zoom items, add audio tracks and sound effects, and incorporate a flashlight feature into their projects.
 
 Course Outline:
