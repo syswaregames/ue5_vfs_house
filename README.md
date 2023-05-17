@@ -3,7 +3,7 @@ This course provides a comprehensive introduction to Unreal Engine 5, focusing o
 
 Course Outline:
 
-Introduction to Unreal Engine 5:
+Introduction to Unreal Engine 5:  
 Overview of Unreal Engine 5 and its capabilities
 Understanding the user interface and navigation
 Interacting with Complex Scenes:
